@@ -1,0 +1,4 @@
+queue_pressure_band,total_orders,breached_orders,avg_dispatch_delay,breach_rate_pct
+Low Queue Pressure,155937,8508,2.9029088670424597,5.456049558475538
+Medium Queue Pressure,23525,4368,4.093673963868225,18.56748140276302
+High Queue Pressure,20538,7124,4.7905336449508225,34.68692180348622

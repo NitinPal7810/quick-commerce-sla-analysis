@@ -1,0 +1,4 @@
+utilization_band,total_orders,breached_orders,avg_dispatch_delay,breach_rate_pct
+Low Utilization,87648,4179,2.759706895764878,4.767935377875137
+Medium Utilization,93150,10064,3.411873752012882,10.804079441760601
+High Utilization,19202,5757,4.5653437141964375,29.98125195292157
