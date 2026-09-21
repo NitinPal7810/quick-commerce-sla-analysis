@@ -1,0 +1,5 @@
+scenario,staffing_increase_pct,predicted_breach_rate_pct,estimated_breach_orders,estimated_breaches_avoided,absolute_breach_reduction_pp,relative_breach_reduction_pct
+Baseline,0,10.0,20000,0,0.0,0.0
+Staffing +10%,10,9.5,19000,1000,0.5,5.0
+Staffing +20%,20,9.0,18000,2000,1.0,10.0
+Staffing +30%,30,8.5,17000,3000,1.5,15.0
